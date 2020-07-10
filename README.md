@@ -10,5 +10,5 @@
  🔭 I’m currently working on:  -->
 
 🌱 I’m currently learning: Product Management, Competitive Programming    
-💬 Ask me about: Full Stack Development, DevOps  
+💬 Ask me about: Full Stack Development, DevOps, DS and Algorithms    
 📫 Mail: yogansh.11@gmail.com  
