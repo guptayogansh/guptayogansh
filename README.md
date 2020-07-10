@@ -9,6 +9,6 @@
 
  🔭 I’m currently working on:  -->
 
-🌱 I’m currently learning: Product Management
-💬 Ask me about: Full Stack Development, DevOps
-📫 Mail: yogansh.11@gmail.com
+🌱 I’m currently learning: Product Management, Competitive Programming    
+💬 Ask me about: Full Stack Development, DevOps  
+📫 Mail: yogansh.11@gmail.com  
