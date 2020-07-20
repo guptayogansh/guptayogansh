@@ -11,8 +11,8 @@
 
 🌱 Currently learning: Product Management, Competitive Programming    
 💬 Ask me about: Full Stack Development, DevOps, DS and Algorithms    
-📫 Mail: yogansh.11@gmail.com
-
+📫 Mail: yogansh.11@gmail.com    
+:man_technologist:Skills:    
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazonwebservices" width="40" height="40"/>
