@@ -22,12 +22,12 @@
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="80" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/travis-ci.png" alt="TravisCI" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/circleci.png" alt="CircleCI" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="60" height="60"/> 
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="80" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" width="80" height="40"/>
   
 </p>
