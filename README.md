@@ -14,20 +14,20 @@
 📫 Mail: yogansh.11@gmail.com    
 :man_technologist:Skills:    
 <p align="left">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazonwebservices" width="40" height="40"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="40" height="40"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="40"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="60" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/travis-ci.png" alt="TravisCI" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/circleci.png" alt="CircleCI" width="40" height="40"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="60" height="60"/> 
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" width="60" height="60"/>
   
 </p>
