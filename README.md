@@ -9,7 +9,7 @@
 
  🔭 I’m currently working on:  -->
 
-🌱 Currently learning: Product Management, Competitive Programming    
+🌱 Currently learning: Product Management    
 💬 Ask me about: Full Stack Development, DevOps, DS and Algorithms    
 📫 Mail: yogansh.11@gmail.com    
 :man_technologist:Skills:    
