@@ -11,8 +11,9 @@
 
 🌱 Currently learning: Product Management    
 💬 Ask me about: Full Stack Development, DevOps, DS and Algorithms    
-📫 Mail: yogansh.11@gmail.com    
-:man_technologist:Skills:    
+📫 Mail: yogansh.11@gmail.com  
+
+### Skills:man_technologist::    
 <p align="left">
   <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazonwebservices" width="40" height="40"/>
@@ -29,5 +30,4 @@
   <img src="https://img.icons8.com/color/48/000000/circleci.png" alt="CircleCI" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="80" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" width="80" height="40"/>
-  
 </p>
