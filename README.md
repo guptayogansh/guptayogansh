@@ -13,7 +13,7 @@
 💬 Ask me about: Full Stack Development, DevOps, DS and Algorithms    
 📫 Mail: yogansh.11@gmail.com  
 
-### Skills:man_technologist::    
+### Skills :man_technologist::    
 <p align="left">
   <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazonwebservices" width="40" height="40"/>
